@@ -1,0 +1,1 @@
+[![CI](https://github.com/momipochi/rustic/actions/workflows/rust.yml/badge.svg)](https://github.com/momipochi/rustic/actions/workflows/rust.yml)
